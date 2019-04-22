@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_tiny">8sp</dimen>
+    <dimen name="text_size_mini">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_high">18sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="margin_progressbar">20dp</dimen>
+    <dimen name="size_16dp">16dp</dimen>
+    <dimen name="size_5dp">5dp</dimen>
+    <dimen name="size_10dp">10dp</dimen>
+    <dimen name="size_150dp">150dp</dimen>
+    <dimen name="size_2dp">2dp</dimen>
+    <dimen name="size_20dp">20dp</dimen>
+    <dimen name="size_35dp">35dp</dimen>
+    <dimen name="size_26dp">26dp</dimen>
+    <dimen name="size_400dp">400dp</dimen>
+    <dimen name="size_40dp">40dp</dimen>
+    <dimen name="sizr_105dp">105dp</dimen>
+    <dimen name="size_140dp">140dp</dimen>
+    <dimen name="size_500dp">500dp</dimen>
+    <dimen name="size_50dp">50dp</dimen>
+    <dimen name="size_55dp">55dp</dimen>
+    <dimen name="size_66dp">66dp</dimen>
+    <dimen name="size_30dp">30dp</dimen>
+    <dimen name="size_6dp">6dp</dimen>
+    <dimen name="size_15dp">15dp</dimen>
+    <dimen name="size_70dp">70dp</dimen>
+    <dimen name="size_46dp">46dp</dimen>
+    <dimen name="size_3dp">3dp</dimen>
+    <dimen name="size_100dp">100dp</dimen>
+    <dimen name="size_23dp">23dp</dimen>
+    <dimen name="size_130dp">130dp</dimen>
+    <dimen name="size_24dp">24dp</dimen>
+    <dimen name="size_25dp">25dp</dimen>
+
+
+</resources>

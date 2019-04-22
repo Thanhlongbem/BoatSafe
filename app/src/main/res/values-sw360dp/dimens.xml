@@ -1,0 +1,104 @@
+<resources>
+  <dimen name="text_size_tiny">
+    8.0sp
+  </dimen>
+  <dimen name="text_size_mini">
+    12.0sp
+  </dimen>
+  <dimen name="text_size_normal">
+    14.0sp
+  </dimen>
+  <dimen name="text_size_medium">
+    16.0sp
+  </dimen>
+  <dimen name="text_size_high">
+    18.0sp
+  </dimen>
+  <dimen name="text_size_large">
+    20.0sp
+  </dimen>
+  <dimen name="margin_progressbar">
+    20.0dp
+  </dimen>
+  <dimen name="size_16dp">
+    16.0dp
+  </dimen>
+  <dimen name="size_5dp">
+    5.0dp
+  </dimen>
+  <dimen name="size_10dp">
+    10.0dp
+  </dimen>
+  <dimen name="size_150dp">
+    150.0dp
+  </dimen>
+  <dimen name="size_2dp">
+    2.0dp
+  </dimen>
+  <dimen name="size_20dp">
+    20.0dp
+  </dimen>
+  <dimen name="size_35dp">
+    35.0dp
+  </dimen>
+  <dimen name="size_26dp">
+    26.0dp
+  </dimen>
+  <dimen name="size_400dp">
+    400.0dp
+  </dimen>
+  <dimen name="size_40dp">
+    40.0dp
+  </dimen>
+  <dimen name="sizr_105dp">
+    105.0dp
+  </dimen>
+  <dimen name="size_140dp">
+    140.0dp
+  </dimen>
+  <dimen name="size_500dp">
+    500.0dp
+  </dimen>
+  <dimen name="size_50dp">
+    50.0dp
+  </dimen>
+  <dimen name="size_55dp">
+    55.0dp
+  </dimen>
+  <dimen name="size_66dp">
+    66.0dp
+  </dimen>
+  <dimen name="size_30dp">
+    30.0dp
+  </dimen>
+  <dimen name="size_6dp">
+    6.0dp
+  </dimen>
+  <dimen name="size_15dp">
+    15.0dp
+  </dimen>
+  <dimen name="size_70dp">
+    70.0dp
+  </dimen>
+  <dimen name="size_46dp">
+    46.0dp
+  </dimen>
+  <dimen name="size_3dp">
+    3.0dp
+  </dimen>
+  <dimen name="size_100dp">
+    100.0dp
+  </dimen>
+  <dimen name="size_23dp">
+    23.0dp
+  </dimen>
+  <dimen name="size_130dp">
+    130.0dp
+  </dimen>
+  <dimen name="size_24dp">
+    24.0dp
+  </dimen>
+  <dimen name="size_25dp">
+    25.0dp
+  </dimen>
+</resources>

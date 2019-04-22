@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Boat Safe</string>
+
+    <string name="msg_choose_loation">Địa chỉ</string>
+    <string name="title_introduce">Giới thiệu</string>
+    <string name="title_accept" tools:ignore="ExtraTranslation">Xác nhận</string>
+        <string name="title_introduce_app">BoatSafe là một ứng dụng nghiên cứu về thuật toán định vị, xác định vận tốc, hướng của phương tiện chuyển động đặc biệt là khi thiết bị ngắt kết nối với GPS. Để gia tăng độ chính xác của thuật toán định vị này, chúng tôi hi vọng nhận được sự hỗ từ bạn trong quá trình sử dụng ứng dụng bằng cách bạn sẽ cung cấp cho chúng tôi dữ liệu về cảm biến quán tính trong quá trình hoạt động qua email. Chúng tôi xin chân thành cám ơn.</string>
+    <string name="title_support_developer">Hỗ trợ nhà phát triển</string>
+    <string name="title_set_up">Cài đặt</string>
+    <string name="title_language">Ngôn ngữ</string>
+    <string name="title_collision_warning">Cảnh báo va chạm</string>
+    <string name="title_info">Thông tin</string>
+    <string name="title_location_is_updated">Đã cập nhật vị trí</string>
+    <string name="title_is_not_update_location">Không cập nhật được vị trí</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_history">Lịch sử</string>
+    <string name="title_information">Thông tin</string>
+    <string name="title_fall_warning">Chúng tôi vừa nhận thấy rằng có va chạm. Bạn hãy xác nhận lại trạng thái của mình trong 30 giây</string>
+    <string name="title_fine">Tôi không sao</string>
+    <string name="title_help">Giúp tôi</string>
+    <string name="title_location">Tọa độ: </string>
+    <string name="title_end">Kết thúc</string>
+    <string name="title_continue">Tiếp tục</string>
+</resources>

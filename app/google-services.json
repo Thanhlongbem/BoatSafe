@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "318368507262",
+    "firebase_url": "https://sachnoiasia.firebaseio.com",
+    "project_id": "sachnoiasia",
+    "storage_bucket": "sachnoiasia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318368507262:android:bb68c4a18145220e",
+        "android_client_info": {
+          "package_name": "vnu.uet.boatsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318368507262-bt5ru9auod763sm9e1hf1tmnrdvltlel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy2JVDk3iLrUJWCuo2ZZ1anh8GonvFxwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

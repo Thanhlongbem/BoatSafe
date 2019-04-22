@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.MainActivity">
+
+
+    <FrameLayout
+        android:id="@+id/vpListFragment"
+        android:layout_marginBottom="@dimen/size_55dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/mainBottomNavView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorAccent"
+        android:backgroundTint="@color/colorAccent"
+        android:elevation="@dimen/size_10dp"
+        app:elevation="@dimen/size_10dp"
+        app:itemIconTint="@drawable/color_bottom_bar_selection"
+        app:itemTextColor="@drawable/color_bottom_bar_selection"
+        app:menu="@menu/menu_bottom_home"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+</android.support.constraint.ConstraintLayout>

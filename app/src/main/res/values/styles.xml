@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <declare-styleable name="ToolbarStyleable">
+        <attr name="title" format="string"></attr>
+    </declare-styleable>
+    
+    <style name="ConstraintCenterHoz">
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+    </style>
+
+    <style name="ConstraintCenterVert">
+        <item name="layout_constraintTop_toTopOf">parent</item>
+        <item name="layout_constraintBottom_toBottomOf">parent</item>
+    </style>
+
+    <declare-styleable name="WaveBarStyleable">
+        <attr name="colorBar" format="color"></attr>
+        <attr name="radius" format="integer"></attr>
+        <attr name="waveMarginRadio" format="float"></attr>
+        <attr name="waveHeightRadio" format="float"></attr>
+    </declare-styleable>
+
+    <style name="RoundButtonPrimaryTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bg_button_primary</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:paddingTop">@dimen/size_13dp</item>
+        <item name="android:paddingBottom">@dimen/size_13dp</item>
+        <item name="android:textSize">@dimen/text_size_high</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="RoundButtonPrimaryThemeTwoButton">
+        <item name="android:layout_width">@dimen/size_130dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bg_button_primary</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:paddingTop">@dimen/size_13dp</item>
+        <item name="android:paddingBottom">@dimen/size_13dp</item>
+        <item name="android:textSize">@dimen/text_size_high</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+
+    <dimen name="size_13dp">13dp</dimen>
+</resources>

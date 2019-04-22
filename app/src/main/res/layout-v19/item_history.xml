@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="3dp"
+    android:background="@drawable/background_gradient_circle_cateory">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="h,4:2"/>
+    <TextView
+        android:id="@+id/txtCateTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Category"
+        style="@style/ConstraintCenterVert"
+        android:gravity="center"
+        android:textSize="@dimen/text_size_medium"
+        android:textColor="@android:color/white"
+        android:layout_margin="@dimen/size_5dp"
+        fontPath="fonts/Roboto-Medium.ttf"
+        tools:ignore="MissingPrefix" />
+</android.support.constraint.ConstraintLayout>
